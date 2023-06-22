@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+service.yaml
+tsconfig.tsbuildinfo
+package-lock.json
+/ignore
+*.log
+.env
+instrucoes.md
